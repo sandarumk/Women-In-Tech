@@ -24,3 +24,9 @@ It has three rounds for North America, Asia Pacific and Europe, Middle East and 
 Entity: Google \
 Link : [https://www.womentechmakers.com/scholars](https://www.womentechmakers.com/scholars)\
 Deadline: Varies . Keep checking for your region. I will announce once the applications are open for any region
+
+# MongoDB’s Women in Computer Science Summit
+
+Entity: MongoDB \
+Link : [https://www.mongodb.com/women-in-cs-summit](https://www.mongodb.com/women-in-cs-summit) \
+Deadline : March 19th, 2018 at 11:59 PM PST.
