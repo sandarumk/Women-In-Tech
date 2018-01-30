@@ -21,6 +21,6 @@ As said in the description "hrough the Women Techmakers Scholars Program - forme
 
 It has three rounds for North America, Asia Pacific and Europe, Middle East and the rest. 
 
-Entity: Google
-Link : [https://www.womentechmakers.com/scholars](https://www.womentechmakers.com/scholars)
+Entity: Google \
+Link : [https://www.womentechmakers.com/scholars](https://www.womentechmakers.com/scholars)\
 Deadline: Varies . Keep checking for your region. I will announce once the applications are open for any region
