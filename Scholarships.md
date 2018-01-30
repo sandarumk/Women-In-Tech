@@ -14,3 +14,13 @@ Google hosts CodeJam for I/O for women which is a single online round of algorit
 Entity: Google \
 Link: [https://sites.google.com/site/codejamtoioforwomen/](https://sites.google.com/site/codejamtoioforwomen/) \
 Deadline: Saturday, February 17, 2018 at 15:00 UTC
+
+# Google Women Techmakers Scholarship
+
+As said in the description "hrough the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the field of computer science by encouraging women to excel in computing and technology and become active leaders and role models in the field."
+
+It has three rounds for North America, Asia Pacific and Europe, Middle East and the rest. 
+
+Entity: Google
+Link : [https://www.womentechmakers.com/scholars](https://www.womentechmakers.com/scholars)
+Deadline: Varies . Keep checking for your region. I will announce once the applications are open for any region
