@@ -7,6 +7,21 @@ Entity: AnitaB.org \
 Link : [https://ghc.anitab.org/2018-student-academic/scholarships/](https://ghc.anitab.org/2018-student-academic/scholarships/)\
 Deadline: March 7, 2018 at 5 p.m. PT
 
+Entity: Microsoft \
+Link To The Application: [https://microsoft.recsolu.com/external/requisitions/aBin2VjhaYpRcPKfytgvnQ](https://microsoft.recsolu.com/external/requisitions/aBin2VjhaYpRcPKfytgvnQ)\
+Link To The Scholarship Program: [https://careers.microsoft.com/students/scholarships](https://careers.microsoft.com/students/scholarships)\
+Deadline: May 31, 2018
+
+Entity: CRA-W \
+Link: [https://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/#tab-id-1](https://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/#tab-id-1) \
+Deadline: TBD
+
+# Grace Hopper Hoppers Program 2018
+Hoppers are volunteers who commit their time in organizing activities in return of a complementary registration of the Scholarship. Hoppers do not get airfare or accommodation.\
+Link: [https://ghc.anitab.org/hoppers/](https://ghc.anitab.org/hoppers/)\
+Deadline: TBD (applications will open May 16, 2018)
+ 
+
 # Google I/O
 
 Google hosts CodeJam for I/O for women which is a single online round of algorithmic problem solving where the top 150 participants receive a ticket to Google I/O and a $500 travel stipend. 
