@@ -32,7 +32,7 @@ Deadline: Saturday, February 17, 2018 at 15:00 UTC
 
 # Google Women Techmakers Scholarship
 
-As said in the description "hrough the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the field of computer science by encouraging women to excel in computing and technology and become active leaders and role models in the field."
+As said in the description "Through the Women Techmakers Scholars Program - formerly the Google Anita Borg Memorial Scholarship Program - Google is furthering Dr. Anita Borg’s vision of creating gender equality in the field of computer science by encouraging women to excel in computing and technology and become active leaders and role models in the field."
 
 It has three rounds for North America, Asia Pacific and Europe, Middle East and the rest. 
 
@@ -45,3 +45,8 @@ Deadline: Varies . Keep checking for your region. I will announce once the appli
 Entity: MongoDB \
 Link : [https://www.mongodb.com/women-in-cs-summit](https://www.mongodb.com/women-in-cs-summit) \
 Deadline : March 19th, 2018 at 11:59 PM PST.
+
+#  F8 Hackathon - Complementary pass for F8 - Facebook’s Annual Developer Conference
+Entity: Facebook \
+Link: [https://f8hackathon.splashthat.com/](https://f8hackathon.splashthat.com/) \
+Deadline: 23rd March, 2018 \
