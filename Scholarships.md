@@ -50,3 +50,8 @@ Deadline : March 19th, 2018 at 11:59 PM PST.
 Entity: Facebook \
 Link: [https://f8hackathon.splashthat.com/](https://f8hackathon.splashthat.com/) \
 Deadline: 23rd March, 2018 \
+
+# WWDC18 
+Entity: Apple  \
+Link: [https://developer.apple.com/wwdc/scholarships/](https://developer.apple.com/wwdc/scholarships/)  \
+Deadline: 1st April, 2018  
