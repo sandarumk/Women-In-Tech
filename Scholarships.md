@@ -54,4 +54,9 @@ Deadline: 23rd March, 2018 \
 # WWDC18 
 Entity: Apple  \
 Link: [https://developer.apple.com/wwdc/scholarships/](https://developer.apple.com/wwdc/scholarships/)  \
-Deadline: 1st April, 2018  
+Deadline: 1st April, 2018 
+
+# AISES INTEL GROWING THE LEGACY SCHOLARSHIP PROGRAM  \
+Entity: Intel  \
+Link [http://www.aises.org/scholarships/intel](http://www.aises.org/scholarships/intel)  \
+Deadline: 31st March, 2018
