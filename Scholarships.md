@@ -56,12 +56,12 @@ Entity: Apple  \
 Link: [https://developer.apple.com/wwdc/scholarships/](https://developer.apple.com/wwdc/scholarships/)  \
 Deadline: 1st April, 2018 
 
-# AISES INTEL GROWING THE LEGACY SCHOLARSHIP PROGRAM  \
+# AISES INTEL GROWING THE LEGACY SCHOLARSHIP PROGRAM  
 Entity: Intel  \
 Link [http://www.aises.org/scholarships/intel](http://www.aises.org/scholarships/intel)  \
 Deadline: 31st March, 2018
 
 # Google Travel and Conference Grants
-Entity: Google
-Link: https://edu.google.com/scholarships/google-travel-and-conference-grants/#!overview
-Deadline: Depends on the conference
+Entity: Google  \
+Link: https://edu.google.com/scholarships/google-travel-and-conference-grants/#!overview  \
+Deadline: Depends on the conference  
