@@ -60,3 +60,8 @@ Deadline: 1st April, 2018
 Entity: Intel  \
 Link [http://www.aises.org/scholarships/intel](http://www.aises.org/scholarships/intel)  \
 Deadline: 31st March, 2018
+
+# Google Travel and Conference Grants
+Entity: Google
+Link: https://edu.google.com/scholarships/google-travel-and-conference-grants/#!overview
+Deadline: Depends on the conference
