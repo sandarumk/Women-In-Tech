@@ -65,3 +65,9 @@ Deadline: 31st March, 2018
 Entity: Google  \
 Link: https://edu.google.com/scholarships/google-travel-and-conference-grants/#!overview  \
 Deadline: Depends on the conference  
+
+#  #Google Venkat Panchapakesan Memorial Scholarship
+Entity: Google \
+Link: https://edu.google.com/scholarships/venkat-panchapakesan-memorial-scholarship/  \
+Deadline: Friday, June 15, 2018 at 11:59 pm IST
+
