@@ -16,6 +16,10 @@ Entity: CRA-W \
 Link: [https://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/#tab-id-1](https://cra.org/cra-w/scholarships-and-awards/scholarships/ghc-research-scholars/#tab-id-1) \
 Deadline: TBD
 
+Entity: Facebook \
+Link: https://www.facebook.com/careers/program/gracehopper2018 \
+Deadline: Friday, June 29, 2018 at 11:59pm PST 
+
 # Grace Hopper Hoppers Program 2018
 Hoppers are volunteers who commit their time in organizing activities in return of a complementary registration of the Scholarship. Hoppers do not get airfare or accommodation.\
 Link: [https://ghc.anitab.org/hoppers/](https://ghc.anitab.org/hoppers/)\
